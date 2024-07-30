@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowDamage", "src\ShowDamage.csproj", "{FD472790-463E-417F-98F9-C3A88A907846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD472790-463E-417F-98F9-C3A88A907846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD472790-463E-417F-98F9-C3A88A907846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD472790-463E-417F-98F9-C3A88A907846}.Debug|x86.ActiveCfg = Debug|x86
+		{FD472790-463E-417F-98F9-C3A88A907846}.Debug|x86.Build.0 = Debug|x86
+		{FD472790-463E-417F-98F9-C3A88A907846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD472790-463E-417F-98F9-C3A88A907846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD472790-463E-417F-98F9-C3A88A907846}.Release|x86.ActiveCfg = Release|x86
+		{FD472790-463E-417F-98F9-C3A88A907846}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9FC1EA6-0A7A-4B04-B5A3-0FB63C74290A}
+	EndGlobalSection
+EndGlobal
